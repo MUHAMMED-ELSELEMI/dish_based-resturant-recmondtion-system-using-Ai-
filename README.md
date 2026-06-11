@@ -3,8 +3,6 @@
 
 **Institution:** Sakarya University, Department of Software Engineering  
 **Course:** SWE402 - Senior Design Project  
-**Team:** Muhammed Elselemi   
-**Supervisor:** Asst. Prof. Dr. Beyza Eken  
 
 ---
 
